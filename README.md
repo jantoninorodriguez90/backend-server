@@ -1,5 +1,18 @@
-Librearias para agregadas al proyecto:
+#Backend-Server
 
+Este es el codigo necesario para establecer el backend conectado a MongoDB usando Mongoose
+
+Para ejecutarlo, es neceario reconstruir los modulos de node usando el comando:
+
+```
+npm install
+```
+
+# Dentro de Google-SignIn-demo
+Existe un pequeño ejercicio para probar la autentificacion de Google en un Front-End basico pero funcional.
+
+
+# Librearias agregadas al proyecto:
 1. node
 2. mongodb
 3. express
